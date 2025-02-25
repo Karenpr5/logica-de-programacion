@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+16
+porcentaje,valor
+6
+2
+1
+d
+22
+valor*(porcentaje/100)
+1
+t
+16
+valor-porcentaje
+4
+1
+28
+' el total de la compra:', t
+1
